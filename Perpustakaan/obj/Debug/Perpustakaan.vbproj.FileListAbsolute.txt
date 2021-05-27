@@ -1,0 +1,35 @@
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.MenuUtama.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Resources.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.xml
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Buku.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Pinjaman.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Pengembalian.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.DaftarAnggota.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.MenuUtamaAnggota.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.PinjamanAnggota.resources
+c:\users\yukiraf\onedrive\documents\visual studio 2013\Projects\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Login.resources
+E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.xml
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Buku.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.DaftarAnggota.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.MenuUtama.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.MenuUtamaAnggota.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.PinjamanAnggota.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.LoginAdmin.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Login.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Resources.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Pengembalian.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Pinjaman.resources
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
