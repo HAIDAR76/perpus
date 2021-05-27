@@ -33,3 +33,4 @@ E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.vbproj.GenerateResource.Cach
 E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
 E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
 E:\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+E:\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.vbprojResolveAssemblyReference.cache
